@@ -1,4 +1,6 @@
-## Hi! I'm Giovanny Orsini
+# Hi! I'm Giovanny Orsini  
+__Brazilian Computer Science Student | Aspiring Web Developer__
+
 <div>
   <a href="https://github.com/giovannyorsini/"> 
     <img height="140" src="https://github-readme-stats.vercel.app/api?username=giovannyorsini&show_icons=true&theme=dark&rank_icon=github">
@@ -20,3 +22,8 @@
   <a href = "mailto:gikaorsini@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/giovanny-orsini" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
+
+## About Me
+- Computer Science student passionate about __web development__ and __JavaScript__.  
+- Interested in opportunities to grow and collaborate on real-world projects.  
+- Currently learning **React** and improving my skills in front-end development.  
