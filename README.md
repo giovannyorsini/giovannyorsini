@@ -3,9 +3,6 @@ __Brazilian Computer Science Student | Aspiring Web Developer__
 
 <div>
   <a href="https://github.com/giovannyorsini/"> 
-    <img height="140" src="https://github-readme-stats.vercel.app/api?username=giovannyorsini&show_icons=true&theme=dark&rank_icon=github">
-  </a>
-  <a href="https://github.com/giovannyorsini/"> 
     <img height="140" src="https://github-readme-stats.vercel.app/api/top-langs/?username=giovannyorsini&layout=compact&theme=dark">
   </a>
 </div>
