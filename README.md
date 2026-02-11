@@ -21,7 +21,7 @@
 
   ##
   
-<img src="https://raw.githubusercontent.com/giovannyorsini/giovannyorsini/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/giovannyorsini/giovannyorsini/output/github-snake-dark.svg" alt="Snake animation" />
 
   ##
  
