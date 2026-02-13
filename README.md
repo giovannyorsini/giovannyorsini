@@ -3,10 +3,10 @@
 
 <div align="center">
   <a href="https://github.com/giovannyorsini/"> 
-    <img height="140" src="https://github-readme-stats.vercel.app/api?username=giovannyorsini&show_icons=true&theme=dark&rank_icon=github&hide_title=true">
+    <img alt="Stats-graph" height="140" src="https://github-readme-stats.vercel.app/api?username=giovannyorsini&show_icons=true&theme=dark&rank_icon=github&hide_title=true">
   </a>
   <a href="https://github.com/giovannyorsini/"> 
-    <img height="140" src="https://github-readme-stats.vercel.app/api/top-langs/?username=giovannyorsini&layout=compact&theme=dark">
+    <img alt ="Languages-graph" height="140" src="https://github-readme-stats.vercel.app/api/top-langs/?username=giovannyorsini&layout=compact&theme=dark">
   </a>
 </div>
 <div style="display: inline_block" align="center"><br>
