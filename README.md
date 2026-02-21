@@ -1,14 +1,6 @@
 <h1 align="center">Hi! I'm Giovanny Orsini</h1>  
 <p align="center">Brazilian Computer Science Student | Aspiring Web Developer<p>
 
-<div align="center">
-  <a href="https://github.com/giovannyorsini/"> 
-    <img alt="Stats-graph" height="140" src="https://github-readme-stats.vercel.app/api?username=giovannyorsini&show_icons=true&theme=dark&rank_icon=github&hide_title=true">
-  </a>
-  <a href="https://github.com/giovannyorsini/"> 
-    <img alt ="Languages-graph" height="140" src="https://github-readme-stats.vercel.app/api/top-langs/?username=giovannyorsini&layout=compact&theme=dark">
-  </a>
-</div>
 <div style="display: inline_block" align="center"><br>
   <img alt="Giovanny-JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img alt="Giovanny-TypeScript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg"/>
