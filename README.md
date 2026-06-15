@@ -31,6 +31,10 @@
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/giovannyorsini/giovannyorsini/output/pacman-contribution-graph.svg">
 </picture>
 
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=giovannyorsini&theme=dark&background=0000001A" alt="GitHub Streak" />
+</div>
+
   ##
  
 <h2 align="center">About Me</h2>
